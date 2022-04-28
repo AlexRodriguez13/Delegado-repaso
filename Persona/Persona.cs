@@ -8,9 +8,9 @@ namespace Persona
 {
     public class Persona
     {
-        internal string Nombre { get; set; }
-        internal string Apellido { get; set; }
-        internal int Edad { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public int Edad { get; set; }
 
 
     }
