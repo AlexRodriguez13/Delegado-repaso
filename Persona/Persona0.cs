@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Persona
 {
-    public class Persona
+    public class Persona0
     {
         public string Nombre { get; set; }
         public string Apellido { get; set; }

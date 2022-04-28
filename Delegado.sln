@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona", "Persona\Persona.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Query", "Query\Query.csproj", "{90E46FD5-1577-44AE-B11E-96E615F6A809}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{3472D051-C6AA-4724-979F-9F5FDA622D6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{90E46FD5-1577-44AE-B11E-96E615F6A809}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90E46FD5-1577-44AE-B11E-96E615F6A809}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90E46FD5-1577-44AE-B11E-96E615F6A809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3472D051-C6AA-4724-979F-9F5FDA622D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3472D051-C6AA-4724-979F-9F5FDA622D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3472D051-C6AA-4724-979F-9F5FDA622D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3472D051-C6AA-4724-979F-9F5FDA622D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
